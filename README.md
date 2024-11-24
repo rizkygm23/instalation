@@ -12,6 +12,9 @@ Dokumen ini menjelaskan langkah-langkah instalasi dan konfigurasi web server men
 
 ### 1. Update Sistem
 Jalankan perintah berikut untuk memperbarui paket di sistem Anda:
+
+
+
 ```bash
 sudo apt update
 ```
