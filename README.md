@@ -118,7 +118,4 @@ sudo systemctl restart vsftpd
 
 ---
 
-**Catatan:** Pastikan mengganti `username` dengan nama pengguna Anda saat membuat direktori.
-```
 
-README ini sudah dirancang agar mudah digunakan di GitHub. Anda hanya perlu menyalin dan menyimpannya sebagai `README.md`. 🎉
