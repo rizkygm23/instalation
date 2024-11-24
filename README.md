@@ -15,11 +15,12 @@ Jalankan perintah berikut untuk memperbarui paket di sistem Anda:
 
 
 
+
+
+### 2. Instalasi Apache
 ```bash
 sudo apt update
 ```
-
-### 2. Instalasi Apache
 Gunakan perintah berikut untuk menginstal Apache:
 ```bash
 sudo apt install apache2
