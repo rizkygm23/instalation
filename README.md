@@ -1,10 +1,4 @@
-# instalation
-Berikut adalah format README.md untuk instalasi dan konfigurasi web server serta FTP server:
 
-```markdown
-# Instalasi dan Konfigurasi Web Server dan FTP Server di Ubuntu
-
-Dokumen ini menjelaskan langkah-langkah instalasi dan konfigurasi web server menggunakan Apache dan FTP server menggunakan `vsftpd` di Ubuntu.
 
 ---
 
@@ -12,15 +6,15 @@ Dokumen ini menjelaskan langkah-langkah instalasi dan konfigurasi web server men
 
 ### 1. Update Sistem
 Jalankan perintah berikut untuk memperbarui paket di sistem Anda:
-
+```bash
+sudo apt update
+```
 
 
 
 
 ### 2. Instalasi Apache
-```bash
-sudo apt update
-```
+
 Gunakan perintah berikut untuk menginstal Apache:
 ```bash
 sudo apt install apache2
